@@ -2,3 +2,7 @@
 # you don't want to track in your git repository.
 
 *.zip
+
+# Ignore these folders
+bin/
+obj/
