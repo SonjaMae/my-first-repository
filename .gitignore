@@ -1,0 +1,4 @@
+# The .gitignore file identifies the patterns for files/folders that 
+# you don't want to track in your git repository.
+
+*.zip
